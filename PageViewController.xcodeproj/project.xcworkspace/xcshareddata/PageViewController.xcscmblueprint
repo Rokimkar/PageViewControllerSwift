@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "6FB8D8852BC41E1E0C775005EABA6C99D28ADCF4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "6FB8D8852BC41E1E0C775005EABA6C99D28ADCF4" : 9223372036854775807,
+    "14368314E050E45430786429A4028444F81CF2F4" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6FC38959-8E8C-4E4E-953A-BDE2D54DE363",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "6FB8D8852BC41E1E0C775005EABA6C99D28ADCF4" : "PageViewControllerSwift\/",
+    "14368314E050E45430786429A4028444F81CF2F4" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PageViewController",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PageViewController.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Rokimkar\/ArchiverSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "14368314E050E45430786429A4028444F81CF2F4"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Rokimkar\/PageViewControllerSwift.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FB8D8852BC41E1E0C775005EABA6C99D28ADCF4"
+    }
+  ]
+}
